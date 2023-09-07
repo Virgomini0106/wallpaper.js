@@ -1,1 +1,1 @@
-# wallpaper.js
+# wallpaper
